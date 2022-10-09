@@ -13,7 +13,7 @@
 
 - 🤝 My favourite technology to work with [Django](https://www.djangoproject.com/)
 
-- 🤝 🤓 I’m good at "visualising" the project [Figma Project](https://www.figma.com/file/FQU3muqoK2w61U2PIRulmu/Untitled?node-id=0%3A1)
+- 🤓 I’m good at "visualising" the project [Figma Project](https://www.figma.com/file/FQU3muqoK2w61U2PIRulmu/Untitled?node-id=0%3A1)
 
 - 👨‍💻 All of my projects are available at [https://github.com/blerdijankoliqi](https://github.com/blerdijankoliqi)
 
