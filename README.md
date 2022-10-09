@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/blerdijankolic/)
+[![MasterHead](https://s7.gifyu.com/images/animated-gif-animation-gif-banner-web-banner-animated-banner.gif)](https://www.linkedin.com/in/blerdijankolic/)
 
 <h1 align="center">Hey 👋, I'm Blerdijan</h1>
 <h3 align="center">A passionate developer from Montenegro</h3>
