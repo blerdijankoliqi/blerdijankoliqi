@@ -1,4 +1,4 @@
-[![MasterHead](https://www.weareai.me/wp-content/uploads/2022/10/blerdii.gif)](https://www.linkedin.com/in/blerdijankolic/)
+[![MasterHead](https://www.weareai.me/wp-content/uploads/2022/10/blerdijan.gif)](https://www.linkedin.com/in/blerdijankolic/)
 
 <h1 align="center">Hey 👋, I'm Blerdijan</h1>
 <h3 align="center">A passionate developer from Montenegro</h3>
