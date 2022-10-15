@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **blerdijankoliqi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VchS62GgG8u_CRW1RnreFwmkunlrq41K/view?usp=sharing](https://drive.google.com/file/d/1VchS62GgG8u_CRW1RnreFwmkunlrq41K/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jsySNzsGDMVRjFAus7c1ieOygOho1wmv/view?usp=sharing](https://drive.google.com/file/d/1jsySNzsGDMVRjFAus7c1ieOygOho1wmv/view?usp=sharing)
 
 - ⚡ Fun fact **I am considered multilingual**
 
