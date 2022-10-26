@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blerdijankoliqi&label=Profile%20views&color=0e75b6&style=flat" alt="blerdijankoliqi" /> </p>
 
-- 🔭 I’m currently working on [Library Rental Management System](https://github.com/blerdijankoliqi/projectvile)
+- 🔭 I’m currently working on [Library Rental Management System](https://github.com/blerdijankoliqi/library-management-system)
 
 - 🌱 I’m currently learning **Webflow**
 
